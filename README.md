@@ -48,3 +48,16 @@ An in-depth look at the steps involved in the project:
 - Feature Extraction
 - Model Training
 - Model Evaluation
+
+
+## Results
+
+A comprehensive presentation of the results obtained from the comparative analysis, including accuracy, precision, recall, and F1-score for each algorithm.
+
+## Conclusion
+
+Summarizing the key findings of the project, highlighting which machine learning algorithms performed best for HAR, and discussing the implications of these findings.
+
+## Future Work
+
+Suggestions for future research directions and potential improvements to HAR systems based on the insights gained from this project.
