@@ -53,7 +53,9 @@ An in-depth look at the steps involved in the project:
 
 
 ## Results
-
+<p align="center">
+  <img src="results.png" width="800"/>
+</p>
 A comprehensive presentation of the results obtained from the comparative analysis, including accuracy, precision, recall, and F1-score for each algorithm.
 
 ## Conclusion
