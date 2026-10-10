@@ -30,7 +30,9 @@ This section will provide an overview of the project, including the significance
 ## Dataset
 
 Detailed information about the HARTH dataset, including its collection process, types of activities recorded, and the format of the data.
-
+<p align="center">
+  <img src="dataset.png" width="800"/>
+</p>
 ## Algorithms
 
 Descriptions of each machine learning algorithm used in this project:
